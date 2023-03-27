@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8192564.css",
-    "main.js": "/static/js/main.54d38f82.js",
-    "static/js/787.e721f841.chunk.js": "/static/js/787.e721f841.chunk.js",
-    "index.html": "/index.html",
-    "main.a8192564.css.map": "/static/css/main.a8192564.css.map",
-    "main.54d38f82.js.map": "/static/js/main.54d38f82.js.map",
-    "787.e721f841.chunk.js.map": "/static/js/787.e721f841.chunk.js.map"
+    "main.css": "/kakeibo-4-browser/static/css/main.a8192564.css",
+    "main.js": "/kakeibo-4-browser/static/js/main.e3a0fd87.js",
+    "static/js/787.e721f841.chunk.js": "/kakeibo-4-browser/static/js/787.e721f841.chunk.js",
+    "index.html": "/kakeibo-4-browser/index.html",
+    "main.a8192564.css.map": "/kakeibo-4-browser/static/css/main.a8192564.css.map",
+    "main.e3a0fd87.js.map": "/kakeibo-4-browser/static/js/main.e3a0fd87.js.map",
+    "787.e721f841.chunk.js.map": "/kakeibo-4-browser/static/js/787.e721f841.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8192564.css",
-    "static/js/main.54d38f82.js"
+    "static/js/main.e3a0fd87.js"
   ]
 }
