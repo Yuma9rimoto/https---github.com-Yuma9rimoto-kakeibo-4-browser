@@ -1,9 +1,13 @@
-import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import { configureStore, ThunkAction, Action } from "@reduxjs/toolkit";
+import dateReduce from "./slice/dateSlice";
+import expenditureReduce from "./slice/expenditureSlice";
+import expenditureFornReduce from "./slice/expenditureFormSlice";
 
 export const store = configureStore({
   reducer: {
-    counter: counterReducer,
+    date: dateReduce,
+    expenditure: expenditureReduce,
+    expenditureForn: expenditureFornReduce,
   },
 });
 
